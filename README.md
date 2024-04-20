@@ -11,7 +11,4 @@
 
 # Configuration
 
-Fix padding on right side of the screen:
-`ZLE_RPROMPT_INDENT=0`
-
 # Theming
